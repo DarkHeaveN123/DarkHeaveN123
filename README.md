@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DARKHEAVEN</h1>
 <h3 align="center">[Malayali Hacker]</h3>
 
-- 🔭 I’m currently working on **[DARKHOLE TEAM]**
+- 🔭 I’m currently working on **[DARKHOLE TEAM]
 
 - 🌱 I’m currently learning **[Block Chain]**
 
