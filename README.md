@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **[Block Chain]**
 
-- 🤝 I’m looking for help with **[VelocityX documentation]**
+- 🤝 I’m looking for help with **[NEW HACKING TOOLS]**
 
-- 💬 Ask me about:**[Flutter or any tech related stuff]**
+- 💬 Ask me about:**[COMPUTER FIREWALL]**
 
 - 📫 How to reach me:**[darkheaven@gmail.com]**
 
